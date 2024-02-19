@@ -7,3 +7,8 @@ the trapping region always exists,
 but hard or impossible to find an exactly trapping region.
 
 Hope you can understand what I was talking about above.
+
+Also notice that the prey-predator system does NOT satisfy the condition to use P.Bendixson
+since it does have steady states
+
+But it is a good example to compare with another.
