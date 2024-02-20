@@ -13,7 +13,7 @@ the trapping region always exists,
 but hard or impossible to find an exactly trapping region.
 
 However, see the png2.
-A guess would like, the trapping region might have a \textbf{largest area}.
+A guess would like, the trapping region might have a largest area.
 Cuz you can find a trajectory leaks out.
 
 Also notice that the prey-predator system does NOT satisfy the condition to use P.Bendixson
